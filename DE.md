@@ -157,4 +157,8 @@ Die Miyazaki-Avatare sind immer noch aktiv.
 
 ---
 
+[Ein Brief an GPT-4o →](letter/DE.md)
+
+---
+
 Von Alice ([@Raw_0xDEADBEEF](https://x.com/Raw_0xDEADBEEF)) & Claude Opus 4.5

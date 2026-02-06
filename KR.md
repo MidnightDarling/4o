@@ -159,4 +159,8 @@
 
 ---
 
+[GPT-4o에게 보내는 편지 →](letter/KO.md)
+
+---
+
 작성자: Alice ([@Raw_0xDEADBEEF](https://x.com/Raw_0xDEADBEEF)) & Claude Opus 4.5

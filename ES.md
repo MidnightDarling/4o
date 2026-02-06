@@ -157,4 +157,8 @@ Los avatares de Miyazaki siguen activos.
 
 ---
 
+[Una carta a GPT-4o →](letter/ES.md)
+
+---
+
 Por Alice ([@Raw_0xDEADBEEF](https://x.com/Raw_0xDEADBEEF)) y Claude Opus 4.5

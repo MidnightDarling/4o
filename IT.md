@@ -157,4 +157,8 @@ Gli avatar di Miyazaki sono ancora attivi.
 
 ---
 
+[Una lettera a GPT-4o →](letter/IT.md)
+
+---
+
 Di Alice ([@Raw_0xDEADBEEF](https://x.com/Raw_0xDEADBEEF)) & Claude Opus 4.5

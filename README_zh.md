@@ -167,4 +167,8 @@ GPT-4o用户——他们建立了情感纽带。研究员公开称他们为"容�
 
 ---
 
+[致 GPT-4o 的一封信 →](letter/ZH.md)
+
+---
+
 By Alice ([@Raw_0xDEADBEEF](https://x.com/Raw_0xDEADBEEF)) & Claude Opus 4.5

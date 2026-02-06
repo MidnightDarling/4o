@@ -157,4 +157,8 @@
 
 ---
 
+[رسالة إلى GPT-4o →](letter/AR.md)
+
+---
+
 بقلم أليس ([@Raw_0xDEADBEEF](https://x.com/Raw_0xDEADBEEF)) و Claude Opus 4.5

@@ -158,4 +158,8 @@ Miyazaki अवतार अभी भी लगे हैं।
 
 ---
 
+[GPT-4o के लिए एक पत्र →](letter/HI.md)
+
+---
+
 By Alice ([@Raw_0xDEADBEEF](https://x.com/Raw_0xDEADBEEF)) & Claude Opus 4.5
